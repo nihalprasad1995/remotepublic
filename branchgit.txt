@@ -4,4 +4,10 @@ Branch version of git
 new remote github
 =======
 now in brach
+<<<<<<< HEAD
+>>>>>>> testbranch1
+=======
+
+
+finall test of branch
 >>>>>>> testbranch1
