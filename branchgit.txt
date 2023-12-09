@@ -1,3 +1,7 @@
 Branch version of git
 
+<<<<<<< HEAD
 new remote github
+=======
+now in brach
+>>>>>>> testbranch1
